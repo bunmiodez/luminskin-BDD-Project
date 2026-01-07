@@ -1,0 +1,19 @@
+{
+  "searchIcon": "[role=\"button\"][aria-label=\"Search\"]",
+  "searchTextArea": "#Search",
+  "searchProductListSelect": ".predictive-search__list-item",
+  "productDescriptor": ".product__descriptor",
+  "addToCartButton": ".product-form__text",
+  "checkOutButton": "#proceedToCheckoutButton",
+
+  "closeCart": "#closeCartDrawer",
+
+  "countryCurrecyChangeButton": "span[data-target=\"#modal-currency-root\"][role=\"button\"]",
+  "countryClickbutton": "select[name=\"country_code\"]",
+  "countrySelect": "div.disclosure--option-link[data-value=\"US\"]",
+  "shopNowbutton": ".currency-submit-button>#submitFormButton"
+
+ 
+
+
+}
